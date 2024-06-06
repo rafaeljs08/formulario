@@ -1,0 +1,54 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 10px solid rgb(55, 4, 240);
+    font-family: "Shippori Antique", sans-serif;
+    background-color: rgb(5, 110, 124);
+}
+
+.photo {
+    height: 250px;
+}
+div{
+padding: 5px;
+text-align: center;
+align-items: center;
+box-shadow: 10px solid rgb(239, 239, 240);
+
+}
+legend{
+    padding: 5px;
+border-radius: 5px;
+background-color: rgb(255, 255, 255);
+}
+fieldset {
+    border: 2px solid black;
+    padding-left: 10px;
+    padding: 20px;
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(231, 229, 226);
+    
+}
+
+h1 {
+    color: rgba(0, 3, 175, 0.685);
+    align-items: center;
+    display: flex;
+    
+}
+
+p{
+    color: rgb(236, 253, 2);
+    font-size: 20px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}
